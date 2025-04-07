@@ -1,6 +1,6 @@
 # BIMA 2025
 
-(https://raw.githubusercontent.com/username/repo/main/images/logo.png)
+![Logo GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 # Metode Pembacaan Sensor dan Pengumpulan Data untuk Sistem FitWork
 
