@@ -1,4 +1,4 @@
-# bima2025
+# BIMA 2025
 
 # Metode Pembacaan Sensor dan Pengumpulan Data untuk Sistem FitWork
 
