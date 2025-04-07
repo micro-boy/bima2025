@@ -1,6 +1,6 @@
 # BIMA 2025
 
-(https://github.com/micro-boy/bima2025/blob/main/flowchart.png)
+(https://raw.githubusercontent.com/username/repo/main/images/logo.png)
 
 # Metode Pembacaan Sensor dan Pengumpulan Data untuk Sistem FitWork
 
