@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1116a2a2-55ff-4083-bea9-feb8d85e91bf)# BIMA 2025
+# BIMA 2025
 
 ![Logo GitHub](https://github.com/micro-boy/bima2025/blob/main/images/flowchart.png)
 
