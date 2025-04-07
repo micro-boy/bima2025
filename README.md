@@ -1,5 +1,7 @@
 # BIMA 2025
 
+https://github.com/micro-boy/bima2025/blob/main/flowchart.png
+
 # Metode Pembacaan Sensor dan Pengumpulan Data untuk Sistem FitWork
 
 Untuk sistem pemantauan fisik seperti FitWork dengan platform Arduino/ESP, pemilihan metode pembacaan sensor dan pengumpulan data yang tepat sangat krusial. Berikut saya jelaskan beberapa metode dengan kelebihan dan kekurangannya.
